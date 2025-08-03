@@ -1,0 +1,8 @@
+{
+  "routes": {
+    "/manoj-portfolio": {},
+    "/manoj-portfolio/about": {},
+    "/manoj-portfolio/contact": {},
+    "/manoj-portfolio/projects": {}
+  }
+}
